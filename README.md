@@ -1,16 +1,51 @@
-# sallon_application
+# ✂️ Flutter Salon Application
 
-A new Flutter project.
+A simple yet functional **Salon Management App** built using **Flutter**.  
+This project was created after 1.5 months of learning Flutter, focusing on building real-world applications with clean UI and local storage.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🏠 **Home Page** with banner and services
+- 💇‍♂️ **Special Offers** section
+- 👥 **Our Team** section showcasing staff
+- ✂️ **Haircuts Section** with booking timings
+- 📦 **Local Storage using Hive** to store data
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter** (UI framework)
+- **Dart** (programming language)
+- **Hive** (local storage)
+- **Material Design** components
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 App Structure
+- **Home Page** → Banner, Services
+- **Special Offers**
+- **Our Team**
+- **Haircuts & Booking Section**
+
+---
+
+## 📸 Screenshots
+_Add screenshots of your app here (optional)_
+
+---
+
+## 🏃‍♂️ Getting Started
+To run this project locally:
+
+```bash
+# Clone the repo
+
+# Go into the project
+cd flutter-salon-app
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
